@@ -48,7 +48,7 @@ See the [TMkUp v2.0 specification](https://github.com/TextNet-Foundation/TMkUp) 
 ## Implementations
 
 - **[TBrowser](https://github.com/TextNet-Foundation/TBrowser)** — terminal browser for TNet written in Rust.
-- Server implementations are planned; contributions are welcome.
+- **[tnet-tools](https://github.com/TextNet-Foundation/tnet-tools)** - Server implementations.
 
 ## Documentation
 
